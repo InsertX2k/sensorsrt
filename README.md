@@ -9,3 +9,4 @@ sensorsrt is a one file Python script to provide real-time sensors reading from 
 ```sh
 sensorsrt <refresh rate in sec(s)>
 ```
+* default value for `<refresh rate in sec(s)>` is **2** when not specified
